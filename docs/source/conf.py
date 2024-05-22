@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'RootInsightCV'
+copyright = '2024, Group CV5'
+author = 'Cedric, Jakub, Samuel, Simona, Thomas'
 
 release = '0.1'
 version = '0.1.0'
